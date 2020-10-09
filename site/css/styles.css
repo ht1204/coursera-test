@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+
+#tblTest {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+tr,
+td {
+    background: lightcyan;
+    border-color: black;
+    padding: 0.5rem;
+    border: 2px solid black;
+}
+
+#btnID {
+    border: 3px solid blue;
+    color: black;
+    font-size: 21px;
+}
+
+body {
+    border: 5px solid black;
+    text-align: center;
+}
